@@ -11,22 +11,9 @@ Desenvolvedora dedicada e em constante aprendizado, com foco no desenvolvimento 
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=geovannakr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=geovannakr&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannakr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ![](https://github-contributor-stats.vercel.app/api?username=geovannakr&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/geovannakr/geovannakr-commits/output/dist/pacman-contribution-graph.svg"
-  >
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/geovannakr/geovannakr-commits/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" 
-       src="https://raw.githubusercontent.com/geovannakr/geovannakr-commits/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
