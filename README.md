@@ -13,7 +13,7 @@ Desenvolvedora dedicada e em constante aprendizado, com foco no desenvolvimento 
 ![](https://github-readme-stats.vercel.app/api?username=geovannakr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geovannakr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-![](https://github-readme-stats.vercel.app/api?username=geovannakr&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://streak-stats.demolab.com?user=geovannakr&theme=dracula)
 
 ---
 
